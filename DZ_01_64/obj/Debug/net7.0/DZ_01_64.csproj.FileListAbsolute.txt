@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\bin\Debug\net7.0\DZ_01_64.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\bin\Debug\net7.0\DZ_01_64.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\bin\Debug\net7.0\DZ_01_64.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\bin\Debug\net7.0\DZ_01_64.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\bin\Debug\net7.0\DZ_01_64.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\refint\DZ_01_64.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\DZ_01_64.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 09. C#\DZ\DZ_01_64\obj\Debug\net7.0\ref\DZ_01_64.dll
